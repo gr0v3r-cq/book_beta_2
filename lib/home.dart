@@ -1,4 +1,4 @@
-import 'package:book_app/data.dart';
+import 'package:book_beta_2/data.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {

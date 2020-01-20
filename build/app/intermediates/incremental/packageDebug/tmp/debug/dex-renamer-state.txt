@@ -1,0 +1,4 @@
+#Sun Jan 19 21:52:41 BOT 2020
+base.0=/Users/gr0v3r/Downloads/book_beta_2/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
