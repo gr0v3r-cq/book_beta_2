@@ -1,0 +1,4 @@
+#Sun Jan 19 22:15:54 BOT 2020
+base.0=/Users/gr0v3r/Downloads/proyectbookapp/book_beta_2/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

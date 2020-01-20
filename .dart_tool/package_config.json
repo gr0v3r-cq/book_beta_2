@@ -170,13 +170,13 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "book_app",
+      "name": "book_beta_2",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.8"
+      "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-01-20T01:41:13.349340Z",
+  "generated": "2020-01-20T02:15:08.895262Z",
   "generator": "pub",
   "generatorVersion": "2.8.0-dev.0.0.flutter-c547f5d933"
 }
